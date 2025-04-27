@@ -17,8 +17,8 @@ const Index = () => {
     <Layout>
       <div className="w-full px-4">
         <section className="mb-8">
-          <h2 className="text-3xl font-bold text-center mb-8">Compound Interest Calculator</h2>
-          <p className="text-center text-muted-foreground mb-8">
+          <h2 className="text-3xl font-bold text-center mb-8 text-black">Compound Interest Calculator</h2>
+          <p className="text-center text-muted-foreground mb-8 text-black">
             Plan your financial future by calculating how your investments will grow over time with the power of compound interest.
           </p>
         </section>
